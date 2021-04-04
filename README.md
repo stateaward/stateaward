@@ -6,7 +6,7 @@ Me = {
   goal : 'DRIVE HIGH ENGAGEMENT USER EXPERIENCE',
   isAchieve : false,
   skill : {
-    design✍🏻 : 'Sketch', 'Figma', Drawing', '📸',
+    design✍🏻 : 'Adobes(Ps, Ai, Pr, ..)', 'Sketch', 'Figma', Drawing', '📸',
     develop💻 : 'Vue.js', 'SCSS', 'HTML', 'javascript',
     planing🤼‍ : 'Project Exp.', 'PM', 'Discovering Insight✨'
   }
