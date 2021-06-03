@@ -1,4 +1,4 @@
-<h3 align="center">FrontEnd Developer 💻 </h3>
+<h2 align="center">FrontEnd Developer 💻 </h2>
 
 <pre align="center" style="font-size:7pt">
 사용자 중심의 서비스 기획과 개발을 좋아합니다.
@@ -46,11 +46,11 @@ I think about how short codes can perform many functions.
 </p>
 
 <br>
+<br>
 
-<center>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stateaward)](https://github.com/anuraghazra/stateaward)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstateaward&count_bg=%236AB9FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=profile&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</center>
+<p align="center">
+  <a href="https://github.com/anuraghazra/stateaward"><img src="https://github-readme-stats.vercel.app/api?username=stateaward"/></a>
+  <br>
+  <br>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstateaward&count_bg=%236AB9FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=profile&edge_flat=false"/></a>
+</p>
