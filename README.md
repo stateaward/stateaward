@@ -14,10 +14,12 @@ I think about how short codes can perform many functions.
 <h3 align="center">current</h3>
 <p align="center">
     <img src="https://user-images.githubusercontent.com/69230635/120642047-5dfb4000-c4af-11eb-8bdb-37e4e0be3117.png" width="40px" /><br>
-    <a href="https://www.mongdok.com" target="_blank"><b style="font-size:7pt">비대면 온라인 캠 스터디 플랫폼</b></a>
+    <a href="https://www.mongdok.com" target="_blank"><b size="7px">비대면 온라인 캠 스터디 플랫폼</b></a>
     <br>
-    <b style="font-size:7pt; margin-top:1px">(FE develop, UI/UX Design)</b>
+    <b size="7px">(FE develop, UI/UX Design)</b>
 </p>
+
+<hr>
 
 <h3 align="center">👨‍💻 TechSkill👨‍🎨</h3>
 <p align="center">
