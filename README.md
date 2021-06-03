@@ -13,7 +13,7 @@ I think about how short codes can perform many functions.
 
 <h3 align="center">current</h3>
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/69230635/120642047-5dfb4000-c4af-11eb-8bdb-37e4e0be3117.png" style="width:40px" /><br>
+    <img src="https://user-images.githubusercontent.com/69230635/120642047-5dfb4000-c4af-11eb-8bdb-37e4e0be3117.png" width="40px" /><br>
     <a href="https://www.mongdok.com" target="_blank"><b style="font-size:7pt">비대면 온라인 캠 스터디 플랫폼</b></a>
     <br>
     <b style="font-size:7pt; margin-top:1px">(FE develop, UI/UX Design)</b>
@@ -31,9 +31,9 @@ I think about how short codes can perform many functions.
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Illustrator-FF8200?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>
-    <img src="https://img.shields.io/badge/After Effects-01015B?style=flat-square&logo=Adobe After Effects&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo='Adobe Photoshop'&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Illustrator-FF8200?style=flat-square&logo='Adobe Illustrator'&logoColor=white"/>
+    <img src="https://img.shields.io/badge/After Effects-01015B?style=flat-square&logo='Adobe After Effects'&logoColor=white"/>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
     <br>
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
