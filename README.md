@@ -3,7 +3,7 @@
 <pre align="center" style="font-size:7pt">
 사용자 중심의 서비스 기획과 개발을 좋아합니다.
 사용하는 디바이스에 따른 UI/UX를 디자인하고, 구현합니다.
-효용성 높은 기능을 고민하고, 효율적인 코드를 작성하기 위해 고민합니다.
+효용성 높은 기능을 생각하고, 효율적인 코드를 작성하기 위해 고민합니다.
 
 Hello👋, I'm JUSANG
 I make a user-centered service.
